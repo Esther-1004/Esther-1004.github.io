@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Data Analyst Portfolio"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "HyeWon Moon Data Analyst"
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://Esther-1004.github.io"
